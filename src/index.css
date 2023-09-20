@@ -1,0 +1,22 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
+
+
+.title {
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.home {
+  display: flex;
+  position: relative;
+  padding: 50px;
+  margin: 100px;
+}
+
+.home:hover {
+  background-color: rgb(246, 255, 249);
+}
+
